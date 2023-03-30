@@ -1,6 +1,4 @@
 import streamlit as st 
-from keras.preprocessing import image
-from PIL import Image
 import urllib
 import matplotlib.pyplot as plt
 #Numpy deals with large arrays and linear algebra
